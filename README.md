@@ -1,5 +1,4 @@
 <img src="https://wallpaperaccess.com/full/1734212.jpg"  width="500" height="300">
-<br/>
 
 <h1><b>EPITECH JAM</b></h1>
 
