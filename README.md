@@ -13,5 +13,5 @@
 - [ ] The project includes a super villain created by the students.
 
 <h2><br/><b>Our project:</b></h2>
-<p>For this Jam based on the theme <b>SUPERHERO</b>, we made a 3D runner which has as main character Helena parr <br/>(from Indestructibles). We used Unity and C# to do this game.<br/>
+<p>For this Jam based on the theme <b>SUPERHERO</b>, we made a 3D runner which has as main character Helen Parr <br/>(from Indestructibles). We used Unity and C# to do this game.<br/>
 A Link to the Instagram post: https://dumb.link.will-be-updated</p>
